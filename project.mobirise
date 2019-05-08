@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.0",
     "siteFonts": [],
-    "uniqCompNum": 20,
+    "uniqCompNum": 21,
     "versionPublish": "4.10.0"
   },
   "pages": {
@@ -106,14 +106,14 @@
               "size": 0
             }
           },
-          "title": "Drag &amp; Drop Website Builder",
-          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
+          "title": "...jak to się zaczęło ...&nbsp;",
+          "text": "<p>...armagedon</p>",
           "alias": "purity/components",
           "_tags": [
             "Motywy"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.youtube.com/watch?v=4F40bP7w1-I&amp;t=147s\" data-toolbar=\"-mbrBtnMove\">More</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-c"
         },
@@ -121,14 +121,19 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Drop-Dead Easy Website Maker",
-          "meta": "By John Smith posted July 30, 2015",
+          "title": "Amor Vincit Omnia&nbsp;<br> <i>Miłość Zwycięża Wszystko</i>",
+          "meta": "WERGILIUSZ",
           "alias": "purity/components",
           "_tags": [
             "Motywy"
           ],
           "_name": "header3",
-          "_anchor": "header3-d"
+          "_anchor": "header3-d",
+          "_styles": {
+            "I": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
@@ -138,6 +143,38 @@
           ],
           "_name": "content1",
           "_anchor": "content1-e"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Księga gości..",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-k"
         },
         {
           "_params": {
@@ -159,14 +196,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "Bootstrap 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Websites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title1": "1",
+          "caption1": "....",
+          "title2": "2",
+          "caption2": ".....",
+          "title3": "3",
+          "caption3": "....",
+          "title4": "4",
+          "caption4": ".....",
           "alias": "purity/components",
           "_tags": [
             "Motywy"
@@ -187,10 +224,10 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/photo-6.jpg",
                 "active": true,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "Slide 1",
+                "title": "Ona",
                 "contentAlign": "right",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
@@ -198,10 +235,10 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/photo-9.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "Slide 2",
+                "title": "On",
                 "contentAlign": "left",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
@@ -209,13 +246,13 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/photo-10.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "Slide 3",
+                "title": "Oni",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Windows</a> "
               }
             ]
           },
@@ -306,7 +343,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 Company Name. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "Copyright (c) 2019 Aleksandra i Michał Chmiel.",
           "alias": "purity/components",
           "_tags": [
             "Motywy"
