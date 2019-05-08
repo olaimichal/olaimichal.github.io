@@ -73,7 +73,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -154,7 +154,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -184,7 +184,7 @@
             "paddingBottom": 3,
             "columns": 4,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -272,17 +272,18 @@
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-3-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6752-2000x1503.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6752-2000x1503-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/photo-4.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-4-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6402-2000x2662.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6402-2000x2662-800x803.jpg",
                 "alt": "",
-                "title": ""
+                "title": "",
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/photo-5.jpg",
@@ -335,7 +336,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#26272c",
