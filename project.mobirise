@@ -11,8 +11,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.0",
     "siteFonts": [],
-    "uniqCompNum": 23,
-    "versionPublish": "4.10.0"
+    "uniqCompNum": 24,
+    "versionPublish": "4.10.0",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -979,6 +980,128 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           }
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0095-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0095-1920x1281-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0096-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0096-1920x1281-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0097-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0097-1920x1281-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0098-1920x2877.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0098-1920x2877-800x1199.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0099-1920x2877.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0099-1920x2877-800x1199.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0100-1920x2877.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0100-1920x2877-800x1199.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0101-1920x2877.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0101-1920x2877-800x1199.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0102-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0102-1920x1281-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0103-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0103-1920x1281-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0104-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0104-1920x1281-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0105-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0105-1920x1281-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0106-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0106-1920x1281-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0107-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0107-1920x1281-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0108-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0108-1920x1281-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0109-1920x2877.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0109-1920x2877-800x1199.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-n"
         }
       ]
     }
