@@ -74,7 +74,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -160,7 +160,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -190,7 +190,7 @@
             "paddingBottom": 3,
             "columns": 4,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -294,7 +294,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#26272c",
@@ -1017,60 +1017,11 @@
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-3-small.jpg",
-                "alt": "",
-                "title": "",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-4.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-4-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-5.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-5-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-7.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-7-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-8.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-8-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-11.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-11-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-12.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-12-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-13.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-13-small.jpg",
-                "alt": "",
-                "title": ""
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/sesja-0095-1728x1153.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sesja-0095-1728x1153-800x534.jpg",
                 "alt": "",
                 "title": "",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/sesja-0096-1728x1153.jpg",
@@ -1124,6 +1075,216 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/sesja-0103-1728x1153.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sesja-0103-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0104-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0104-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0105-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0105-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0106-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0106-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0107-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0107-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0108-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0108-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0109-1728x2589.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0109-1728x2589-800x1199.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0110-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0110-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0111-1728x2589.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0111-1728x2589-800x1199.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0112-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0112-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0113-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0113-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0114-1728x2589.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0114-1728x2589-800x1199.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0115-1728x2590.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0115-1728x2590-800x1199.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0116-1728x2589.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0116-1728x2589-800x1199.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0117-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0117-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0118-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0118-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0119-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0119-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0120-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0120-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0121-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0121-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0122-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0122-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0123-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0123-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0124-1728x1154.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0124-1728x1154-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0125-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0125-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0126-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0126-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0127-1728x2589.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0127-1728x2589-800x1199.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0128-1728x2592.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0128-1728x2592-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0129-1728x2593.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0129-1728x2593-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0130-1728x2590.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0130-1728x2590-800x1199.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0131-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0131-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0132-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0132-1728x1153-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sesja-0133-1728x1153.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sesja-0133-1728x1153-800x534.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
